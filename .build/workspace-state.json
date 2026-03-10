@@ -1,0 +1,103 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "move-ios-sdk",
+          "kind" : "root",
+          "location" : "/Users/kirill/Projects/move-ios-sdk",
+          "name" : "move-ios-sdk"
+        },
+        "path" : "/Users/kirill/Projects/move-ios-sdk/QuickPoseMP-lite.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "QuickPoseMP-lite"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "move-ios-sdk",
+          "kind" : "root",
+          "location" : "/Users/kirill/Projects/move-ios-sdk",
+          "name" : "move-ios-sdk"
+        },
+        "path" : "/Users/kirill/Projects/move-ios-sdk/QuickPoseMP.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "QuickPoseMP"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "move-ios-sdk",
+          "kind" : "root",
+          "location" : "/Users/kirill/Projects/move-ios-sdk",
+          "name" : "move-ios-sdk"
+        },
+        "path" : "/Users/kirill/Projects/move-ios-sdk/QuickPoseMP-full.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "QuickPoseMP-full"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "move-ios-sdk",
+          "kind" : "root",
+          "location" : "/Users/kirill/Projects/move-ios-sdk",
+          "name" : "move-ios-sdk"
+        },
+        "path" : "/Users/kirill/Projects/move-ios-sdk/QuickPoseCore.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "QuickPoseCore"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "move-ios-sdk",
+          "kind" : "root",
+          "location" : "/Users/kirill/Projects/move-ios-sdk",
+          "name" : "move-ios-sdk"
+        },
+        "path" : "/Users/kirill/Projects/move-ios-sdk/QuickPoseMP-heavy.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "QuickPoseMP-heavy"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

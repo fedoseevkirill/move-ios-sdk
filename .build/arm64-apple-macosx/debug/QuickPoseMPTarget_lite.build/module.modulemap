@@ -1,0 +1,4 @@
+module QuickPoseMPTarget_lite {
+    umbrella "/Users/kirill/Projects/move-ios-sdk/QuickPoseMPWrapper-lite/include"
+    export *
+}

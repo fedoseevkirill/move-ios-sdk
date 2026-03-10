@@ -1,0 +1,4 @@
+module QuickPoseCoreTarget {
+    umbrella "/Users/kirill/Projects/move-ios-sdk/QuickPoseCoreWrapper/include"
+    export *
+}
